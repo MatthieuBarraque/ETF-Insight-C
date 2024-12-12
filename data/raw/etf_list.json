@@ -1,0 +1,485 @@
+{
+    "Secteurs": [
+      {
+        "Nom": "Technologie",
+        "Domaines": [
+          {
+            "Nom": "Technologie de l'information",
+            "ETFs": [
+              {
+                "Nom": "Invesco QQQ Trust",
+                "Ticker": "QQQ",
+                "PlaceMarche": "NASDAQ",
+                "RatioDepenses": 0.20,
+                "ActifsSousGestion": 150000,
+                "Devise": "USD",
+                "DateCreation": "1999-03-10",
+                "Benchmark": "NASDAQ-100 Index"
+              },
+              {
+                "Nom": "Technology Select Sector SPDR Fund",
+                "Ticker": "XLK",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.13,
+                "ActifsSousGestion": 40000,
+                "Devise": "USD",
+                "DateCreation": "1998-12-16",
+                "Benchmark": "S&P Technology Select Sector Index"
+              },
+              {
+                "Nom": "iShares Global Tech ETF",
+                "Ticker": "IXN",
+                "PlaceMarche": "NASDAQ",
+                "RatioDepenses": 0.43,
+                "ActifsSousGestion": 3000,
+                "Devise": "USD",
+                "DateCreation": "2001-11-12",
+                "Benchmark": "S&P Global 1200 Information Technology Sector Index"
+              },
+              {
+                "Nom": "Vanguard Information Technology ETF",
+                "Ticker": "VGT",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.10,
+                "ActifsSousGestion": 45000,
+                "Devise": "USD",
+                "DateCreation": "2004-01-26",
+                "Benchmark": "MSCI US Investable Market Information Technology 25/50 Index"
+              }
+            ]
+          },
+          {
+            "Nom": "Intelligence Artificielle et Robotique",
+            "ETFs": [
+              {
+                "Nom": "Global X Robotics & Artificial Intelligence ETF",
+                "Ticker": "BOTZ",
+                "PlaceMarche": "NASDAQ",
+                "RatioDepenses": 0.68,
+                "ActifsSousGestion": 2500,
+                "Devise": "USD",
+                "DateCreation": "2016-09-12",
+                "Benchmark": "Indxx Global Robotics & Artificial Intelligence Thematic Index"
+              },
+              {
+                "Nom": "ROBO Global Robotics and Automation Index ETF",
+                "Ticker": "ROBO",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.95,
+                "ActifsSousGestion": 1700,
+                "Devise": "USD",
+                "DateCreation": "2013-10-22",
+                "Benchmark": "ROBO Global Robotics & Automation Index"
+              },
+              {
+                "Nom": "iShares Robotics and Artificial Intelligence ETF",
+                "Ticker": "IRBO",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.47,
+                "ActifsSousGestion": 500,
+                "Devise": "USD",
+                "DateCreation": "2018-06-26",
+                "Benchmark": "NYSE FactSet Global Robotics and Artificial Intelligence Index"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nom": "Santé",
+        "Domaines": [
+          {
+            "Nom": "Biotechnologie",
+            "ETFs": [
+              {
+                "Nom": "iShares Nasdaq Biotechnology ETF",
+                "Ticker": "IBB",
+                "PlaceMarche": "NASDAQ",
+                "RatioDepenses": 0.47,
+                "ActifsSousGestion": 9000,
+                "Devise": "USD",
+                "DateCreation": "2001-02-05",
+                "Benchmark": "NASDAQ Biotechnology Index"
+              },
+              {
+                "Nom": "SPDR S&P Biotech ETF",
+                "Ticker": "XBI",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.35,
+                "ActifsSousGestion": 6000,
+                "Devise": "USD",
+                "DateCreation": "2006-01-31",
+                "Benchmark": "S&P Biotechnology Select Industry Index"
+              }
+            ]
+          },
+          {
+            "Nom": "Soins de santé",
+            "ETFs": [
+              {
+                "Nom": "Health Care Select Sector SPDR Fund",
+                "Ticker": "XLV",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.12,
+                "ActifsSousGestion": 25000,
+                "Devise": "USD",
+                "DateCreation": "1998-12-16",
+                "Benchmark": "Health Care Select Sector Index"
+              },
+              {
+                "Nom": "Vanguard Health Care ETF",
+                "Ticker": "VHT",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.10,
+                "ActifsSousGestion": 15000,
+                "Devise": "USD",
+                "DateCreation": "2004-01-26",
+                "Benchmark": "MSCI US Investable Market Health Care 25/50 Index"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nom": "Énergie",
+        "Domaines": [
+          {
+            "Nom": "Énergies renouvelables",
+            "ETFs": [
+              {
+                "Nom": "iShares Global Clean Energy ETF",
+                "Ticker": "ICLN",
+                "PlaceMarche": "NASDAQ",
+                "RatioDepenses": 0.42,
+                "ActifsSousGestion": 6000,
+                "Devise": "USD",
+                "DateCreation": "2008-06-24",
+                "Benchmark": "S&P Global Clean Energy Index"
+              },
+              {
+                "Nom": "Invesco Solar ETF",
+                "Ticker": "TAN",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.69,
+                "ActifsSousGestion": 3000,
+                "Devise": "USD",
+                "DateCreation": "2008-04-15",
+                "Benchmark": "MAC Global Solar Energy Index"
+              }
+            ]
+          },
+          {
+            "Nom": "Énergies traditionnelles",
+            "ETFs": [
+              {
+                "Nom": "Energy Select Sector SPDR Fund",
+                "Ticker": "XLE",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.12,
+                "ActifsSousGestion": 13000,
+                "Devise": "USD",
+                "DateCreation": "1998-12-16",
+                "Benchmark": "Energy Select Sector Index"
+              },
+              {
+                "Nom": "Vanguard Energy ETF",
+                "Ticker": "VDE",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.10,
+                "ActifsSousGestion": 5000,
+                "Devise": "USD",
+                "DateCreation": "2004-09-23",
+                "Benchmark": "MSCI US Investable Market Energy 25/50 Index"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nom": "Finance",
+        "Domaines": [
+          {
+            "Nom": "Banques et Services Financiers",
+            "ETFs": [
+              {
+                "Nom": "Financial Select Sector SPDR Fund",
+                "Ticker": "XLF",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.12,
+                "ActifsSousGestion": 20000,
+                "Devise": "USD",
+                "DateCreation": "1998-12-16",
+                "Benchmark": "Financial Select Sector Index"
+              },
+              {
+                "Nom": "iShares U.S. Financials ETF",
+                "Ticker": "IYF",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.41,
+                "ActifsSousGestion": 2000,
+                "Devise": "USD",
+                "DateCreation": "2000-05-15",
+                "Benchmark": "Dow Jones U.S. Financials Index"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nom": "Consommation",
+        "Domaines": [
+          {
+            "Nom": "Biens de consommation discrétionnaire",
+            "ETFs": [
+              {
+                "Nom": "Consumer Discretionary Select Sector SPDR Fund",
+                "Ticker": "XLY",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.12,
+                "ActifsSousGestion": 16000,
+                "Devise": "USD",
+                "DateCreation": "1998-12-16",
+                "Benchmark": "Consumer Discretionary Select Sector Index"
+              },
+              {
+                "Nom": "Vanguard Consumer Discretionary ETF",
+                "Ticker": "VCR",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.10,
+                "ActifsSousGestion": 4000,
+                "Devise": "USD",
+                "DateCreation": "2004-01-26",
+                "Benchmark": "MSCI US Investable Market Consumer Discretionary 25/50 Index"
+              }
+            ]
+          },
+          {
+            "Nom": "Biens de consommation de base",
+            "ETFs": [
+              {
+                "Nom": "Consumer Staples Select Sector SPDR Fund",
+                "Ticker": "XLP",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.12,
+                "ActifsSousGestion": 12000,
+                "Devise": "USD",
+                "DateCreation": "1998-12-16",
+                "Benchmark": "Consumer Staples Select Sector Index"
+              },
+              {
+                "Nom": "Vanguard Consumer Staples ETF",
+                "Ticker": "VDC",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.10,
+                "ActifsSousGestion": 5000,
+                "Devise": "USD",
+                "DateCreation": "2004-01-26",
+                "Benchmark": "MSCI US Investable Market Consumer Staples 25/50 Index"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nom": "Matériaux",
+        "Domaines": [
+          {
+            "Nom": "Métaux et Mines",
+            "ETFs": [
+              {
+                "Nom": "Materials Select Sector SPDR Fund",
+                "Ticker": "XLB",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.12,
+                "ActifsSousGestion": 6000,
+                "Devise": "USD",
+                "DateCreation": "1998-12-16",
+                "Benchmark": "Materials Select Sector Index"
+              },
+              {
+                "Nom": "Global X Lithium & Battery Tech ETF",
+                "Ticker": "LIT",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.75,
+                "ActifsSousGestion": 1000,
+                "Devise": "USD",
+                "DateCreation": "2010-07-22",
+                "Benchmark": "Solactive Global Lithium Index"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nom": "Immobilier",
+        "Domaines": [
+          {
+            "Nom": "Sociétés d'Investissement Immobilier (REITs)",
+            "ETFs": [
+              {
+                "Nom": "Vanguard Real Estate ETF",
+                "Ticker": "VNQ",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.12,
+                "ActifsSousGestion": 35000,
+                "Devise": "USD",
+                "DateCreation": "2004-09-23",
+                "Benchmark": "MSCI US Investable Market Real Estate 25/50 Index"
+              },
+              {
+                "Nom": "Schwab US REIT ETF",
+                "Ticker": "SCHH",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.07,
+                "ActifsSousGestion": 6000,
+                "Devise": "USD",
+                "DateCreation": "2011-01-13",
+                "Benchmark": "Dow Jones U.S. Select REIT Index"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nom": "Marchés Internationaux",
+        "Domaines": [
+          {
+            "Nom": "Marchés Émergents",
+            "ETFs": [
+              {
+                "Nom": "iShares MSCI Emerging Markets ETF",
+                "Ticker": "EEM",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.68,
+                "ActifsSousGestion": 32000,
+                "Devise": "USD",
+                "DateCreation": "2003-04-07",
+                "Benchmark": "MSCI Emerging Markets Index"
+              },
+              {
+                "Nom": "Vanguard FTSE Emerging Markets ETF",
+                "Ticker": "VWO",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.10,
+                "ActifsSousGestion": 80000,
+                "Devise": "USD",
+                "DateCreation": "2005-03-04",
+                "Benchmark": "FTSE Emerging Markets All Cap China A Inclusion Index"
+              }
+            ]
+          },
+          {
+            "Nom": "Marchés Développés (hors États-Unis)",
+            "ETFs": [
+              {
+                "Nom": "iShares MSCI EAFE ETF",
+                "Ticker": "EFA",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.32,
+                "ActifsSousGestion": 65000,
+                "Devise": "USD",
+                "DateCreation": "2001-08-14",
+                "Benchmark": "MSCI EAFE Index"
+              },
+              {
+                "Nom": "Vanguard FTSE Developed Markets ETF",
+                "Ticker": "VEA",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.05,
+                "ActifsSousGestion": 100000,
+                "Devise": "USD",
+                "DateCreation": "2007-07-20",
+                "Benchmark": "FTSE Developed All Cap ex US Index"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nom": "Obligations",
+        "Domaines": [
+          {
+            "Nom": "Obligations d'État",
+            "ETFs": [
+              {
+                "Nom": "iShares 20+ Year Treasury Bond ETF",
+                "Ticker": "TLT",
+                "PlaceMarche": "NASDAQ",
+                "RatioDepenses": 0.15,
+                "ActifsSousGestion": 19000,
+                "Devise": "USD",
+                "DateCreation": "2002-07-26",
+                "Benchmark": "ICE U.S. Treasury 20+ Year Bond Index"
+              },
+              {
+                "Nom": "Vanguard Total Bond Market ETF",
+                "Ticker": "BND",
+                "PlaceMarche": "NASDAQ",
+                "RatioDepenses": 0.035,
+                "ActifsSousGestion": 70000,
+                "Devise": "USD",
+                "DateCreation": "2007-04-03",
+                "Benchmark": "Bloomberg Barclays U.S. Aggregate Float Adjusted Index"
+              }
+            ]
+          },
+          {
+            "Nom": "Obligations d'Entreprise",
+            "ETFs": [
+              {
+                "Nom": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+                "Ticker": "LQD",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.14,
+                "ActifsSousGestion": 50000,
+                "Devise": "USD",
+                "DateCreation": "2002-07-22",
+                "Benchmark": "Markit iBoxx USD Liquid Investment Grade Index"
+              },
+              {
+                "Nom": "SPDR Bloomberg High Yield Bond ETF",
+                "Ticker": "JNK",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.40,
+                "ActifsSousGestion": 9000,
+                "Devise": "USD",
+                "DateCreation": "2007-11-28",
+                "Benchmark": "Bloomberg Barclays High Yield Very Liquid Index"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nom": "Or et Métaux Précieux",
+        "Domaines": [
+          {
+            "Nom": "Or",
+            "ETFs": [
+              {
+                "Nom": "SPDR Gold Shares",
+                "Ticker": "GLD",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.40,
+                "ActifsSousGestion": 58000,
+                "Devise": "USD",
+                "DateCreation": "2004-11-18",
+                "Benchmark": "Prix de l'or"
+              },
+              {
+                "Nom": "iShares Gold Trust",
+                "Ticker": "IAU",
+                "PlaceMarche": "NYSE Arca",
+                "RatioDepenses": 0.25,
+                "ActifsSousGestion": 28000,
+                "Devise": "USD",
+                "DateCreation": "2005-01-21",
+                "Benchmark": "Prix de l'or"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
